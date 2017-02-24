@@ -2,6 +2,12 @@ body{
 }
 p{
         color: darkred;
-        font-size: 150px;
+        font-size: 75px;
         font-weight: 500;
     }
+c{
+    font-size: 50px;
+    font-weight: 50;
+    color:red;
+    display: block
+}
